@@ -1,0 +1,6 @@
+sayemabn73@gmail.com
+ supriti.phani@capgemini.com
+Java JDBC JSP Servlets
+Struts Hibernate Web Services
+Spring JSF
+Java Threads Concurrent Programming
